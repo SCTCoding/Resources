@@ -1,0 +1,46 @@
+Error: This computer does not meet the OS Requirements for the script %@.
+Error: This computer does not meet the OS Requirements for the package %@.
+Error: You provided a user name and password combination that is invalid. You should check the user name and password and try again.
+Error: The administrator account you specified does not have the appropriate privileges to perform the requested operation.
+Error: Giving up on Active Directory binding after 5 attempts.
+Error: The binding was not successful:
+Error: Centrify does not appear to be properly installed. (Both %@ and %@ are missing)
+Error: You must specify a Zone if you are not binding in Workstation Mode.
+Error: The binding was not successful:
+Error: PowerBroker Identity Serives (formerly Likewise) does not appear to be properly installed. (Both %@ and %@ are missing)
+Error: The binding was not successful:
+Error: ADmitMac does not appear to be properly installed. (Both %@ and %@ are missing)
+Error: The dock item did not have any contents.
+Error: The jamfHelper could not be found.
+Error: Import of Managed Preference Settings failed.
+Error: An error occurred attempting to mount the package "
+Error: Could not prepare Winclone MBR for
+Error: The AdobePatcher applicaton does not exist in the disk image.
+Error: The payloads directory does not exist at the specified base path (
+Error: Package validation failed
+Error: There was an error installing the package:
+Error: The payloads directory does not exist at the specified base path.
+Error: The script could not be found on the server.
+Error: Microsoft Device Registration can only occur when the computer is online.
+Error: The bless command could not find an interface that supports NetBoot
+Error: Could not connect to the HTTP server to download %@
+Error: Could not save %@. No disk space available.
+Error: The package is not found on the server.
+Error: Package was not successfully downloaded. %ld
+Error: The package is not on the server. (%@).
+Error: Could not verify the downloaded package.
+Error: Could not verify the downloaded package. %ld
+Error: The package "%@" does not exist in "%@". You may also want to check the permissions on the file server.
+Error: An error occurred attempting to mount the package "%@".
+Error: The package "%@" could not be mounted (no mountable file systems).
+Error: operation timed out
+Error: This computer does not meet the OS Requirements for the printer %@.
+Error: The Managed Account Password could not be changed.
+Error: The Managed Account Password could not be updated in the JSS.
+Error: The Managed Account Password could not be reset.
+Error: This is the Remote Management Account for this computer. Please reset the password using the SSH Account section.
+Error: unable to parse reponse XML
+Error: unable to read response CSS from disk
+Error: unable to write response CSS to disk
+Error: unable to create new XPath context
+Error: unable to evaluate XPath expression!
